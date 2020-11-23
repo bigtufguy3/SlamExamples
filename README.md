@@ -4,7 +4,7 @@ This repository contains catkin packages used with standard ros packages as exam
 
 This repository should be exported into the src folder of a catkin workspace. Each package inside of this repository will be addressed below.
 
-Pacakges
+Packages
 -------------------
 - add_marker - contains two cpp files that demonstrate the ability to manuever markers in the Rviz environment. 
 
